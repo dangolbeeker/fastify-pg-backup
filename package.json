@@ -10,6 +10,7 @@
     "fastify": "^3.22.0",
     "fastify-plugin": "^3.0.0",
     "fastify-postgres": "^3.6.0",
+    "fastify-schedule": "^1.0.0",
     "gzipme": "^1.0.0",
     "node-cron": "^3.0.0",
     "pg": "^8.7.1",
